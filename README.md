@@ -87,7 +87,7 @@ Tahun Terbit: Harus berupa bilangan bulat positif.
 
 # menampilkan data buku
 
-![image](https://github.com/user-attachments/assets/1c8bed64-f685-4f07-a2fc-9b14bc936cb9)
+![image](https://github.com/user-attachments/assets/1c8bed64-f685-4f07-a2fc-9b14bc936cb9) 
 
 # Mengakhiri Program
 
